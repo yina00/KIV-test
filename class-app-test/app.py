@@ -8,11 +8,11 @@ st.write("원하는 학생의 전시회를 선택하세요.")
 
 # 학생 목록 딕셔너리 (파일명과 일치시켜야 함)
 students = {
-    "학생1": "student1",
-    "학생2": "student2",
-    "학생3": "student3",
-    "학생4": "student4",
-    "학생5": "student5"
+    "학생1": "student_pages/student1",
+    "학생2": "student_pages/student2",
+    "학생3": "student_pages/student3",
+    "학생4": "student_pages/student4",
+    "학생5": "student_pages/student5"
 }
 
 # 드롭다운으로 학생 선택

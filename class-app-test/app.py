@@ -10,7 +10,7 @@ st.write("원하는 학생의 전시회를 선택하세요.")
 students = {
     "학생1": "student_pages/student1",
     "학생2": "student_pages/student2",
-    "학생3": "student_pages/student3",
+    "학생3": "student_pages/student3.py",
     "학생4": "student_pages/student4",
     "학생5": "student_pages/student5"
 }

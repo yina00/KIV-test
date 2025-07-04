@@ -1,4 +1,5 @@
 import streamlit as st
+
 def main():
     st.set_page_config(page_title="학생2의 전시회입니다", layout="centered")
     
